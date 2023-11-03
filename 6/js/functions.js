@@ -35,9 +35,9 @@ const timeToMinutes = (time) => {
   const minutes = parseInt(timeParts[1], 10);
 
   return hours * 60 + minutes;
-}
+};
 
-const meetingTime = (startWorkingTime, endWorkingTime, meetingDuration) => {
+const meetingTime = (startWorkingTime, endWorkingTime, startMeetingTime, meetingDuration) => {
   startWorkingTime = timeToMinutes(startWorkingTime);
   endWorkingTime = timeToMinutes(endWorkingTime);
   startMeetingTime = timeToMinutes(startMeetingTime);
