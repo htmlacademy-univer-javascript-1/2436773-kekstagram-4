@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Злата Смольникова](https://up.htmlacademy.ru/univer-js1/4/user/2436773).
+* Студент: [Злата Смольникова..](https://up.htmlacademy.ru/univer-js1/4/user/2436773).
 * Наставник: [Геннадий Максимов](https://htmlacademy.ru/profile/gennadiy).
 
 ---
